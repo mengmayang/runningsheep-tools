@@ -1,0 +1,9 @@
+CLI Version = 007.1506.0000.0000 Aug 11, 2020
+Operating system = Linux 4.19.25-200.el7.bclinux.aarch64
+Status Code = 0
+Status = Success
+Description = None
+
+Controller Count = 1
+
+

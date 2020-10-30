@@ -1,0 +1,26 @@
+## Linux命令模拟工具
+
+#### 以下以storcli命令为例介绍generate_simulate_script使用方法
+
+### 1. 安装pyinstaller
+
+    /opt/venv/bin/python -m pip install pyinstaller==3.3.1
+
+### 2. 下载Linux命令模拟工具包
+
+    download simulate_command_tools.tar.gz
+    tar -xvzf simulate_command_tools.tar.gz
+    cd simulate_command_tools
+
+### 3. 生成模拟命令的python文件
+
+    python generate_simulate_script.py
+
+### 4. 生成可执行文件
+
+    /opt/venv/bin/pyinstaller -F simulate_storcli.py
+    *simulate_storcli.py为simulate.conf中[command][name]指定
+
+### 5. 获取可执行文件
+
+    可从步骤4生成的dist目录中获取

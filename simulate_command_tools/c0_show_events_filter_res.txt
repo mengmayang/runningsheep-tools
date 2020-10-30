@@ -1,0 +1,161 @@
+
+
+seqNum: 0x000009d6
+Time: Wed Aug 21 06:40:34 2019
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 29 for PD 03(e0x41/s37) is now OFFLINE
+Event Data:
+===========
+Target Id: 41
+
+
+seqNum: 0x00000a5e
+Seconds since last reboot: 102
+Code: 0x000000fb
+Class: 2
+Locale: 0x01
+Event Description: VD 00/0 is now DEGRADED
+Event Data:
+===========
+Target Id: 0
+
+
+seqNum: 0x00000d3a
+Time: Wed Aug 21 07:16:16 2019
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: VD 00/0 is now OFFLINE
+Event Data:
+===========
+Target Id: 0
+
+
+seqNum: 0x00000ff1
+Seconds since last reboot: 101
+Code: 0x000000fb
+Class: 2
+Locale: 0x01
+Event Description: VD 00/0 is now DEGRADED
+Event Data:
+===========
+Target Id: 0
+
+
+seqNum: 0x00001514
+Time: Thu Aug 22 01:55:22 2019
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 28 for PD 02(e0x41/s36) is now OFFLINE
+Event Data:
+===========
+Target Id: 40
+
+
+seqNum: 0x00001875
+Time: Thu Aug 22 07:34:12 2019
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 04 for PD 09(e0x41/s0) is now OFFLINE
+Event Data:
+===========
+Target Id: 4
+
+
+seqNum: 0x00001885
+Time: Thu Aug 22 07:51:56 2019
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 29 for PD 27(e0x41/s37) is now OFFLINE
+Event Data:
+===========
+Target Id: 41
+
+
+seqNum: 0x00001bbc
+Time: Thu Aug 22 09:10:29 2019
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 28 for PD 27(e0x41/s36) is now OFFLINE
+Event Data:
+===========
+Target Id: 40
+
+
+seqNum: 0x0000a47f
+Time: Thu Mar 19 09:21:54 2020
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 15 for PD 1d(e0x41/s17) is now OFFLINE
+Event Data:
+===========
+Target Id: 21
+
+
+seqNum: 0x0000a485
+Time: Thu Mar 19 09:22:13 2020
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 15 for PD 1d(e0x41/s17) is now OFFLINE
+Event Data:
+===========
+Target Id: 21
+
+
+seqNum: 0x0000a488
+Time: Thu Mar 19 09:22:17 2020
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 16 for PD 18(e0x41/s18) is now OFFLINE
+Event Data:
+===========
+Target Id: 22
+
+
+seqNum: 0x0000a491
+Time: Thu Mar 19 09:28:42 2020
+
+Code: 0x000000fc
+Class: 3
+Locale: 0x01
+Event Description: EPD 04 for PD 09(e0x41/s0) is now OFFLINE
+Event Data:
+===========
+Target Id: 4
+CLI Version = 007.1506.0000.0000 Aug 11, 2020
+Operating system = Linux 4.19.25-200.el7.bclinux.aarch64
+Controller = 0
+Status = Success
+Description = None
+
+Events = GETEVENTS
+
+Controller Properties :
+=====================
+
+------------------------------------
+Ctrl Status  Method          Value
+------------------------------------
+   0 Success handleSuboption Events
+------------------------------------
+
+
+
